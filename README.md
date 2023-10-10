@@ -1,7 +1,7 @@
 # Loan-Approval-Prediction-System
 
 ## Introduction
-The Loan Approval Prediction System is a powerful tool built using machine learning techniques, specifically the Random Forest Classification model, to help you make informed decisions about your loan applications. Whether you are a borrower looking to secure a loan or a lender evaluating loan applications, this system is designed to provide you with accurate predictions of loan approval outcomes.
+With the use of machine learning methods, notably the Random Forest Classification model, the Loan Approval Prediction System was created as a potent tool to assist you in making judgments regarding your loan applications. This approach is intended to offer you precise estimates of the likelihood that your loan application will be approved.
 
 ## Files Information
 - **Loan Approval Prediction:**
@@ -14,7 +14,7 @@ The Loan Approval Prediction System is a powerful tool built using machine learn
     Description: This file contains the dataset on which the model is trained. It serves as the foundational data source for the predictive model.
     Usage: If you wish to train the model again or explore the dataset, this file contains the necessary data.
 
-  ## Tech Stack
+## Tech Stack
 - **Programming Language:** Python
 - **Machine Learning Libraries:**
     scikit-learn: Used for building and training machine learning models, including the Random Forest Classification model.
